@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WOD_Dell_Test_Task</fullName>
+    <filterScope>Queue</filterScope>
+    <label>WO_Dell_Test</label>
+    <queue>WO_Dell_Test</queue>
+    <sharedTo>
+        <allInternalUsers></allInternalUsers>
+    </sharedTo>
+</ListView>
